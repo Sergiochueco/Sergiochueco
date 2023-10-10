@@ -1,14 +1,13 @@
 <p 
 
-<h3 align="center"> Hola, mi nombre es Sergio Chueco 👋👨‍💻</h3>
+<h1 align="center"> Hola, mi nombre es Sergio Chueco 👋👨‍💻</h1>
 </p>
 
-<p align="center">Data Science & Data Analyst</p>
+<p 
 
+<h2 align="center">Data Science & Data Analyst</h2>
+</p>
 
-# Hola, mi nombre es Sergio Chueco 👋👨‍💻
-
-## Data Science & Data Analyst
 
 ![https://github.com/Sergiochueco-94](https://raw.githubusercontent.com/Sergiochueco-94/Sergiochueco-94/main/Sergio_Chueco_Medina_banner_data.png)
 
