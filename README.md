@@ -2,12 +2,12 @@
 
 <p 
 
-<h1> align="center"> Hola, mi nombre es Sergio Chueco 👋👨‍💻</h1>
+<h3 align="center"> Hola, mi nombre es Sergio Chueco 👋👨‍💻</h3>
 </p>
 
 <p 
 
-<h2> align="center">Data Science & Data Analyst</h2>
+<h4 align="center">Data Science & Data Analyst</h4>
 </p>
 
 
