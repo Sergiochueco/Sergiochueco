@@ -2,16 +2,16 @@
 
 ## Data Science & Data Analyst
 
-![https://github.com/Sergiochueco-94](https://raw.githubusercontent.com/Sergiochueco-94/Sergiochueco-94/main/Sergio_Chueco_Medina_banner_github.png)
+![https://github.com/Sergiochueco-94](https://raw.githubusercontent.com/Sergiochueco-94/Sergiochueco-94/main/Sergio_Chueco_Medina_banner_hola.png)
 
 
 Soy Data Science & Data Analyst desde hace menos de un año.
 
-En 2021 dejé mi trabajo en una colegio como profesor en formación profesional y decidí dar un giro a mi carrera. Siempre quise ser ingeniero, aunque por circunstancias de la vida terminé estudiando otra cosa. Así que, en busca de dar un giro a mi carrera me tope con el análisis de datos y el data science. Un mundo en el que cuando más me adentraba en el más me gustaba.
+En 2021 dejé mi trabajo en una colegio como profesor en formación profesional y decidí dar un giro a mi carrera. Siempre quise ser ingeniero, aunque por circunstancias de la vida terminé estudiando otra cosa. Así que, en busca de dar un giro a mi carrera, me tope con el análisis de datos y él data science. Un mundo en el que cuando más me adentraba, en él más me gustaba.
 
-Desde entonces me he dedicado a especializarme en ayudar y sacar el mayor potencial a las empresas que lo necesiten, através del análisis de datos, sacando insights interesantes y aplicando también modelos de Machine Learning para buscar mejorar el rendimiento del negocio, aumentando sus beneficios y/o reduciendo sus costes.
+Desde entonces me he dedicado a especializarme en ayudar y sacar el mayor potencial a las empresas que lo necesiten, a través del análisis de datos, sacando insights interesantes y aplicando también modelos de Machine Learning para buscar mejorar el rendimiento del negocio, aumentando sus beneficios y/o reduciendo sus costes.
 
-Es por ello que estoy sumergido diariamente entre código, librerias, papers, tutoriales, máster en Data Science, cursos y un largo etc, para poder dar lo mejor de mi en este sector y poder aportar todo lo que pueda a las empresas que lo necesiten.
+Es por ello que estoy sumergido diariamente entre código, librerías, papers, tutoriales, máster en Data Science, cursos y un largo, etc. Para poder dar lo mejor de mí en este sector y poder aportar todo lo que pueda a las empresas que lo necesiten.
 
 
 ## Tecnologías:
@@ -25,4 +25,8 @@ Es por ello que estoy sumergido diariamente entre código, librerias, papers, tu
 <a href="https://www.linkedin.com/in/sergio-chueco-medina/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sergio-chueco-medina/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+
+## Mis proyectos:
+
+
+
