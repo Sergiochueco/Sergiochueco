@@ -20,10 +20,12 @@ Es por ello que estoy sumergido diariamente entre código, librerías, papers, t
 ## Encuéntrame en:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/sergio-chueco-medina/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sergio-chueco-medina/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sergio-chueco-medina/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin.com/in/sergio-chueco-medina/" height="30" width="40" /></a>
+<a href="mailto:chuecoo.94@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="30px" alt="mail"></a> 
+&nbsp; &nbsp;
 </p>
 
-[![Gmail Badge](https://img.shields.io/badge/-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chuecoo.94@gmail.com)](mailto:chuecoo.94@gmail.com)
+
 
 _______________________________________________________________________________________________________
 
