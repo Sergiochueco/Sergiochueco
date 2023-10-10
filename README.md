@@ -20,7 +20,7 @@ Es por ello que estoy sumergido diariamente entre código, librerías, papers, t
 ## Encuéntrame en:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/sergio-chueco-medina/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sergio-chueco-medina/" height="30" width="40" /></a><a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new" target="blank"><img align="center" src="(https://raw.githubusercontent.com/Sergiochueco-94/Sergiochueco-94/main/Gmail_Icon.png)"alt="linkedin.com/in/sergio-chueco-medina/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sergio-chueco-medina/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sergio-chueco-medina/" height="30" width="40" /></a>
 </p>
 
 
