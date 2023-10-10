@@ -20,10 +20,10 @@ Es por ello que estoy sumergido diariamente entre código, librerías, papers, t
 ## Encuéntrame en:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/sergio-chueco-medina/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sergio-chueco-medina/" height="30" width="40" /></a><a href="mailto:chuecoo.94@gmail.com?Subject=Hola%20Sergio%20me%20gustaría%20conocerte">Envíame un email</a>
+<a href="https://www.linkedin.com/in/sergio-chueco-medina/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sergio-chueco-medina/" height="30" width="40" /></a>
 </p>
 
-[![Gmail Badge](https://img.shields.io/badge/-chuecoo.94@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chuecoo.94@gmail.com?Subject=Hola%20Sergio%20me%20gustaría%20conocerte")](mailto:chuecoo.94@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-chuecoo.94@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chuecoo.94@gmail.com)](mailto:chuecoo.94@gmail.com)
 
 _______________________________________________________________________________________________________
 
