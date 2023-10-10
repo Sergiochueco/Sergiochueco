@@ -1,7 +1,7 @@
 ![https://github.com/Sergiochueco-94](https://raw.githubusercontent.com/Sergiochueco-94/Sergiochueco-94/main/Sergio_Chueco_Medina_banner_data.png)
 
 
-### Hola, mi nombre es Sergio Chueco 👋👨‍💻
+# Hola, mi nombre es Sergio Chueco 👋👨‍💻
 
 Soy Data Science & Data Analyst desde hace menos de un año.
 
