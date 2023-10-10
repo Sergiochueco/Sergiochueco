@@ -23,7 +23,7 @@ Es por ello que estoy sumergido diariamente entre código, librerías, papers, t
 <a href="https://www.linkedin.com/in/sergio-chueco-medina/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/sergio-chueco-medina/" height="30" width="40" /></a>
 </p>
 
-[![Gmail Badge](https://img.shields.io/badge/-chuecoo.94@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chuecoo.94@gmail.com)](mailto:chuecoo.94@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-chuecoo.94@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chuecoo.94@gmail.com)]
 
 _______________________________________________________________________________________________________
 
