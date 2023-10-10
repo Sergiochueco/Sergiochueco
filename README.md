@@ -21,7 +21,7 @@ Es por ello que estoy sumergido diariamente entre código, librerías, papers, t
 
 <p align="left">
 <a href="https://www.linkedin.com/in/sergio-chueco-medina/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin.com/in/sergio-chueco-medina/" height="30" width="40" /></a>
-<a href="mailto:chuecoo.94@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="40px" /></a> 
+<a href="mailto:chuecoo.94@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="40px" alt="mail"></a> 
 &nbsp; &nbsp;
 </p>
 
