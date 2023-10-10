@@ -1,3 +1,11 @@
+<p 
+
+<h3 align="center"> Hola, mi nombre es Sergio Chueco 👋👨‍💻</h3>
+</p>
+
+<p align="center">Data Science & Data Analyst</p>
+
+
 # Hola, mi nombre es Sergio Chueco 👋👨‍💻
 
 ## Data Science & Data Analyst
@@ -27,6 +35,11 @@ Es por ello que estoy sumergido diariamente entre código, librerías, papers, t
 
 
 ## Mis proyectos:
+
+![https://github.com/Sergiochueco-94/Clasification-problem-Malware-prediction](https://raw.githubusercontent.com/Sergiochueco-94/Sergiochueco-94/main/malware_prediction.jpeg)
+
+
+![https://github.com/Sergiochueco-94/BWM](https://raw.githubusercontent.com/Sergiochueco-94/Sergiochueco-94/main/preprocessing.jpeg)
 
 
 
