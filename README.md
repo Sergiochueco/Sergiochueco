@@ -2,7 +2,7 @@
 
 ## Data Science & Data Analyst
 
-![https://github.com/Sergiochueco-94](https://raw.githubusercontent.com/Sergiochueco-94/Sergiochueco-94/main/Sergio Chueco Medina banner github.png)
+![https://github.com/Sergiochueco-94](https://raw.githubusercontent.com/Sergiochueco-94/Sergiochueco-94/main/Sergio_Chueco_Medina_banner_github.png)
 
 
 
