@@ -1,8 +1,8 @@
-# Hola, mi nombre es Sergio Chueco 👋👨🏻‍💻
+# Hola, mi nombre es Sergio Chueco 👋👨‍💻
 
 ## Data Science & Data Analyst
 
-![https://github.com/Sergiochueco-94](https://raw.githubusercontent.com/Sergiochueco-94/Sergiochueco-94/main/Sergio_Chueco_Medina_banner_hola.png)
+![https://github.com/Sergiochueco-94](https://raw.githubusercontent.com/Sergiochueco-94/Sergiochueco-94/main/Sergio_Chueco_Medina_banner_hey.png)
 
 
 Soy Data Science & Data Analyst desde hace menos de un año.
