@@ -21,8 +21,8 @@ Es por ello que estoy sumergido diariamente entre código, librerías, papers, t
 ## Encuéntrame en:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/sergio-chueco-medina/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin.com/in/sergio-chueco-medina/" height="30" width="40" /></a> &nbsp; &nbsp;
-<a href="mailto:chuecoo.94@gmail.com?Subject=Hola%20Sergio%20nos%20gustaría%20conocerte" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="40px" alt="mail"></a> 
+<a href="https://www.linkedin.com/in/sergio-chueco-medina/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin.com/in/sergio-chueco-medina/" height="30" width="40" /></a> 
+<a href="mailto:chuecoo.94@gmail.com?Subject=Hola%20Sergio%20nos%20gustaría%20conocerte" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="40px" alt="linkedin.com/in/sergio-chueco-medina/"></a> 
 &nbsp; &nbsp;
 </p>
 
