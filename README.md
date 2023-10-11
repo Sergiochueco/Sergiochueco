@@ -5,7 +5,7 @@
 
 Soy Data Science & Data Analyst desde hace menos de un año.
 
-En 2021 dejé mi trabajo en una colegio como profesor en formación profesional y decidí dar un giro a mi carrera. Siempre quise ser ingeniero, aunque por circunstancias de la vida terminé estudiando otra cosa. Así que, en busca de dar un giro a mi carrera, me tope con el análisis de datos y él data science. Un mundo en el que cuando más me adentraba, en él más me gustaba.
+En 2022 dejé mi trabajo en una colegio como profesor en formación profesional y decidí dar un giro a mi carrera. Siempre quise ser ingeniero, aunque por circunstancias de la vida terminé estudiando otra cosa. Así que, en busca de dar un giro a mi carrera, me tope con el análisis de datos y el data science. Un mundo en el que cuando más me adentraba en él, más me gustaba.
 
 Desde entonces me he dedicado a especializarme en ayudar y sacar el mayor potencial a las empresas que lo necesiten, a través del análisis de datos, sacando insights interesantes y aplicando también modelos de Machine Learning para buscar mejorar el rendimiento del negocio, aumentando sus beneficios y/o reduciendo sus costes.
 
@@ -16,7 +16,7 @@ Es por ello que estoy sumergido diariamente entre código, librerías, papers, t
 
 
 <p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> &nbsp; &nbsp; <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp; &nbsp; <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> &nbsp; &nbsp; <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> &nbsp; &nbsp; <br> <br>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp; &nbsp; <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> &nbsp; &nbsp; <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Numpy-svgrepo-com.svg?uselang=es" alt="numpy" width="40" height="40"/> </a> &nbsp; &nbsp;<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/_static/logo2.svg" alt="matplotlib" width="50" height="50"/> </a> &nbsp; &nbsp;<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="45" height="45"/> </a> &nbsp; &nbsp; <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> &nbsp; &nbsp; <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> &nbsp; &nbsp; </p>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp; &nbsp; <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> &nbsp; &nbsp; <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Numpy-svgrepo-com.svg?uselang=es" alt="numpy" width="40" height="40"/> </a> &nbsp; &nbsp;<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/_static/logo2.svg" alt="matplotlib" width="70" height="70"/> </a> &nbsp; &nbsp;<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/> </a> &nbsp; &nbsp; <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> &nbsp; &nbsp; <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> &nbsp; &nbsp; </p>
 
 
 ## Encuéntrame en:
@@ -31,9 +31,9 @@ Es por ello que estoy sumergido diariamente entre código, librerías, papers, t
 
 _______________________________________________________________________________________________________
 
-Conectemos 👨‍💻 y forjemos el futuro juntos.😁✌
+## Conectemos 👨‍💻 y forjemos el futuro juntos.😁✌
 
-Consulta los Repositorios y no olvides dar una estrella. 👇
+### Consulta los Repositorios y no olvides dar una estrella. 👇
 
 
 
