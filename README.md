@@ -1,4 +1,4 @@
-![https://github.com/Sergiochueco-94](https://raw.githubusercontent.com/Sergiochueco-94/main/Img/sergio_chueco_banner_data.png)
+![https://github.com/Sergiochueco-94](https://raw.githubusercontent.com/Sergiochueco-94/Sergiochueco-94/main/Img/sergio_chueco_banner_data.png)
 
 
 # Hola, mi nombre es Sergio Chueco 👋👨‍💻
@@ -16,9 +16,12 @@ Es por ello que estoy sumergido diariamente entre código, librerías, papers, t
 
 
 <p align="left" id="p0">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" display= inline-block margin= auto/> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" display= inline-block margin= auto/>
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" display= inline-block margin= auto/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> 
+    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="postman" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/jupyter/jupyter-ar21.svg" alt="postman" width="40" height="40" />
+    
 </p>
 
 <br> 
