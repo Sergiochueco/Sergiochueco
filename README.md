@@ -1,5 +1,15 @@
 ![https://github.com/Sergiochueco-94](https://raw.githubusercontent.com/Sergiochueco-94/Sergiochueco-94/main/Img/sergio_chueco_banner_data.png)
 
+## Conectemos 👨‍💻 y forjemos el futuro juntos.😁✌
+## Encuéntrame en:
+
+<p align="left">
+    <div>
+    <a href="https://www.linkedin.com/in/sergio-chueco-medina/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin.com/in/sergio-chueco-medina/" height="30" width="40" /></a> 
+    <a href="mailto:chuecoo.94@gmail.com?Subject=Hola%20Sergio%20nos%20gustaría%20conocerte" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="35" width="35px" alt="mail"></a> 
+    <div/>
+</p>
+<br>
 
 # Hola, mi nombre es Sergio Chueco 👋👨‍💻
 
@@ -36,19 +46,7 @@ Es por ello que estoy sumergido diariamente entre código, librerías, papers, t
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 </p>
 
-
-## Encuéntrame en:
-
-<p align="left">
-    <div>
-    <a href="https://www.linkedin.com/in/sergio-chueco-medina/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin.com/in/sergio-chueco-medina/" height="30" width="40" /></a> 
-    <a href="mailto:chuecoo.94@gmail.com?Subject=Hola%20Sergio%20nos%20gustaría%20conocerte" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="35" width="35px" alt="mail"></a> 
-    <div/>
-</p>
-
 <br>
-
-## Conectemos 👨‍💻 y forjemos el futuro juntos.😁✌
 
 ### Consulta los Repositorios y no olvides dar una estrella. 👇
 
