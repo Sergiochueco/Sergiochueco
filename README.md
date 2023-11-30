@@ -1,4 +1,4 @@
-![https://github.com/Sergiochueco-94](https://raw.githubusercontent.com/Sergiochueco-94/Sergiochueco-94/main/Img/Banner_Sergio.png)
+![https://github.com/Sergiochueco-94](https://raw.githubusercontent.com/Sergiochueco-94/Sergiochueco-94/main/img/Banner_Sergio.png)
 
 ## Conectemos 👨‍💻 y forjemos el futuro juntos.😁✌
 ## Encuéntrame en:
