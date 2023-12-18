@@ -13,16 +13,16 @@
 
 # Hola, mi nombre es Sergio Chueco 👋👨‍💻
 
-Soy Data Science & Data Analyst desde hace menos de un año.
+Soy Data Science & Data Analyst.
 
-En 2022 dejé mi trabajo en una colegio como profesor en formación profesional y decidí dar un giro a mi carrera. Siempre quise ser ingeniero, aunque por circunstancias de la vida terminé estudiando otra cosa. Así que, en busca de dar un giro a mi carrera, me tope con el análisis de datos y el data science. Un mundo en el que cuando más me adentraba en él, más me gustaba.
+¡Bienvenido a mi mundo de datos! 👨‍💻 Soy Sergio, un apasionado del aprendizaje constante y la resolución de desafíos. He redirigido mi camino hacia el fascinante universo de la tecnología y los datos, donde he encontrado mi verdadera vocación.
 
-Desde entonces me he dedicado a especializarme en ayudar y sacar el mayor potencial a las empresas que lo necesiten, a través del análisis de datos, sacando insights interesantes y aplicando también modelos de Machine Learning para buscar mejorar el rendimiento del negocio, aumentando sus beneficios y/o reduciendo sus costes.
+💡 Mi filosofía es simple: nunca es tarde para reinventarse. Recientemente completé mi Máster en Data Science con Nuclio Digital School, sumergiéndome aún más en el emocionante mundo de los datos. Mi motivación radica en utilizar esta fascinante herramienta para mejorar aspectos vitales de la sociedad y abordar problemas complejos en diversos sectores.
 
-Es por ello que estoy sumergido diariamente entre código, librerías, papers, tutoriales, máster en Data Science, cursos y un largo, etc. Para poder dar lo mejor de mí en este sector y poder aportar todo lo que pueda a las empresas que lo necesiten.
+🌐 ¿Por qué los datos? Siempre he disfrutado resolviendo problemas y optimizando aspectos de mi vida, y los datos son mi herramienta clave. Creo que con ellos, se puede lograr prácticamente cualquier cosa, desde automatizar procesos hasta resolver cuestiones fundamentales en cualquier ámbito.
 
 
-## Tecnologías:
+## Tecnologías con las que trabajo:
 
 
 <p align="left">
