@@ -1,4 +1,4 @@
-![https://github.com/Sergiochueco-94](https://raw.githubusercontent.com/Sergiochueco-94/Sergiochueco-94/main/img/Banner_Sergio.png)
+![https://github.com/Sergiochueco](https://raw.githubusercontent.com/Sergiochueco/Sergiochueco/main/img/Banner_Sergio.png)
 
 ## Conectemos 👨‍💻 y forjemos el futuro juntos.😁✌
 ## Encuéntrame en:
@@ -6,18 +6,18 @@
 <p align="left">
     <div>
     <a href="https://www.linkedin.com/in/sergio-chueco-medina/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin.com/in/sergio-chueco-medina/" height="30" width="40" /></a> 
-    <a href="mailto:chuecoo.94@gmail.com?Subject=Hola%20Sergio%20nos%20gustaría%20conocerte" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="35" width="35px" alt="mail"></a> 
+    <a href="mailto:sergiochuecomedina@gmail.com?Subject=Hola%20Sergio%20nos%20gustaría%20conocerte" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="35" width="35px" alt="mail"></a> 
     <div/>
 </p>
 <br>
 
 # Hola, mi nombre es Sergio Chueco 👋👨‍💻
 
-Soy Data Science & Data Analyst.
+Soy Data Scientist & Data Analyst.
 
-¡Bienvenido a mi mundo de datos! 👨‍💻 Soy Sergio, un apasionado del aprendizaje constante y la resolución de desafíos. He redirigido mi camino hacia el fascinante universo de la tecnología y los datos, donde he encontrado mi verdadera vocación.
+Tienes antes ti a un apasionado del aprendizaje constante y la resolución de desafíos. He redirigido mi camino hacia el fascinante mundo de la tecnología y los datos, donde he encontrado mi verdadera vocación.
 
-💡 Mi filosofía es simple: nunca es tarde para reinventarse. Recientemente completé mi Máster en Data Science con Nuclio Digital School, sumergiéndome aún más en el emocionante mundo de los datos. Mi motivación radica en utilizar esta fascinante herramienta para mejorar aspectos vitales de la sociedad y abordar problemas complejos en diversos sectores.
+💡 Mi filosofía es simple: nunca es tarde para reinventarse. Completé mi Máster en Data Science con Nuclio Digital School, sumergiéndome aún más en este campo del Machine Learning y IA. Mi motivación radica en utilizar esta fascinante herramienta para mejorar aspectos vitales de las empresas, con un impacto directo en la sociedad y abordar problemas complejos en diversos sectores.
 
 🌐 ¿Por qué los datos? Siempre he disfrutado resolviendo problemas y optimizando aspectos de mi vida, y los datos son mi herramienta clave. Creo que con ellos, se puede lograr prácticamente cualquier cosa, desde automatizar procesos hasta resolver cuestiones fundamentales en cualquier ámbito.
 
