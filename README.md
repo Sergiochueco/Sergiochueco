@@ -13,7 +13,7 @@
 
 # Hola, mi nombre es Sergio Chueco Medina 👋👨‍💻
 
-Soy Data Scientist & Data Analyst.
+Trabajo como Data Scientist & Data Analyst.
 
 Tienes antes ti a un apasionado del aprendizaje constante y la resolución de desafíos. He redirigido mi camino hacia el fascinante mundo de la tecnología y los datos, donde he encontrado mi verdadera vocación.
 
