@@ -11,7 +11,7 @@
 </p>
 <br>
 
-# Hola, mi nombre es Sergio Chueco 👋👨‍💻
+# Hola, mi nombre es Sergio Chueco Medina 👋👨‍💻
 
 Soy Data Scientist & Data Analyst.
 
