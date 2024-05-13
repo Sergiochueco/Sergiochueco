@@ -17,7 +17,8 @@ Trabajo como Data Scientist & Data Analyst.
 
 Tienes antes ti a un apasionado del aprendizaje constante y la resolución de problemas. He redirigido mi camino hacia el fascinante mundo de la tecnología y los datos, donde he encontrado mi verdadera vocación.
 
-Completé el Máster en Data Science con Nuclio Digital School, sumergiéndome aún más en este campo del Machine Learning y IA. Mi motivación radica en utilizar esta fascinante herramienta para mejorar aspectos vitales de las empresas, con un impacto directo en la sociedad y abordar problemas complejos en diversos sectores. Actualmente, trabajo como Data Scientist Junior en Casa del Libro, dónde mi trabajo consiste en analizar los datos de la empresa, garantizar la gobernanza del dato, documentar todo el proceso de obtención de los datos, reportar diferentes KPIs a los stakeholders, creando informes automatizados desde la base de datos con visualizaciones en PowerBI y preparar los datos para generar modelos de Machine Learning.
+Completé el Máster en Data Science con Nuclio Digital School, sumergiéndome en el campo del Machine Learning y IA. 
+Mi motivación radica en utilizar esta fascinante herramienta para mejorar aspectos vitales de las empresas, con un impacto directo en la sociedad y abordar problemas complejos en diversos sectores. Actualmente, trabajo como Data Scientist Junior en Casa del Libro, dónde mi trabajo consiste en analizar los datos de la empresa, garantizar la gobernanza del dato, documentar todo el proceso de obtención de los datos, reportar diferentes KPIs a los stakeholders, creando informes automatizados desde la base de datos con visualizaciones en PowerBI y preparar los datos para generar modelos de Machine Learning.
 
 
 ## Tecnologías con las que trabajo:
