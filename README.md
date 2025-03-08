@@ -28,7 +28,7 @@ Mi motivación radica en utilizar esta fascinante herramienta para mejorar aspec
 <p align="left">
     <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-ar21.svg" alt="snowflake" width="90" height="40" />
     <img src="https://www.vectorlogo.zone/logos/fivetran/fivetran-ar21.svg" alt="fivetran" width="90" height="40" />
-    <img src="https://github.com/gilbarbara/logos/blob/main/logos/dbt.svg" alt="dbt" width="90" height="40" />
+    <img src="https://github.com/gilbarbara/logos/blob/main/logos/dbt.svg" alt="dbt" width="80" height="40" />
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
